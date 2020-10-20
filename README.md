@@ -3,8 +3,14 @@
 O projeto é um Todo list simples. Ele Adiciona usuarios do git hub e os lista na tela inicial, tbm é possivel excluir um item da lista ou navegar para uma tela de perfil onde são exibidas mais informações do usuário.
 
 API = api.github.com/users
+//
+//
 Navegação entre telas = React Navigation
+//
+//
 Persistencia de dados locais = AsyncStorage
+//
+//
 
 1ª - git clone https://github.com/agpinheiro/todoList.git ( baixar o repositorio)
 
